@@ -15,7 +15,7 @@ Welcome to the **Plan** section of the Azure Integration Services (AIS) Project 
 ### Project Charter
 Use the project charter template to outline the key elements of your project. This document will serve as a reference throughout the project lifecycle.
 
-[Project Charter](/Templates/Project_Charter_Template.md)
+[Project Charter](Templates/Project_Charter_Template.md)
 
 ### Scope of Work
 The Scope of Work (SOW) provides a detailed description of the work to be performed for the project. It outlines the specific tasks, deliverables, and timelines required to complete the project.
