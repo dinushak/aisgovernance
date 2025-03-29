@@ -1,18 +1,18 @@
 # Discovery Workshop Data Collection Template
 
-## Project Information
+## 1. Project Information
 - **Project Name**: 
 - **Project Manager**: 
 - **Date**: 
 - **Participants**: 
 
-## Integration Overview
+## 2. Integration Overview
 - **Integration Name**: 
 - **Description**: 
 - **Business Objective**: 
 - **Stakeholders**: 
 
-## Current State of Integration
+## 3. Current State of Integration
 - **Source System Name**: 
 - **Source System Owner**: 
 - **Current Data Format**: (e.g., JSON, XML, CSV)
@@ -22,7 +22,7 @@
 - **Current Data Flow**: (e.g., how data is currently transferred)
 - **Current Challenges**: (e.g., issues with data quality, latency)
 
-## Integration Requirements
+## 4. Integration Requirements
 - **Frequency**: (e.g., real-time, batch, scheduled)
 - **Volume**: (e.g., number of records per integration)
 - **Latency**: (e.g., acceptable delay in data transfer)
@@ -43,8 +43,8 @@
 - **Privacy**: (e.g., data protection measures)
 - **Costing**: (e.g., budget considerations)
 
-## Existing and Supported Infrastructure
-### Infrastructure
+## 5. Existing and Supported Infrastructure
+### 5.1 Infrastructure
 - **Existing State of Azure Tenant**: 
   - **Landing Zones**: (e.g., How subscriptions are organized)
   - **Resource Groups & Resources**: (e.g., How resources are organized)
@@ -59,26 +59,25 @@
 - **Existing DevOps Infrastructure**: (e.g., Corporate Azure DevOps)
 - **Availability of Environments**: (e.g., Dev, Test, UAT, Production)
 
-### Policies & Procedures
+### 5.2 Policies & Procedures
 - **Naming Conventions for Resources**: (e.g., existing naming guideline)
 - **Service Request/Change Management Process**: (e.g., ITIL processes, ticketing systems)
 - **Preferred IaC Frameworks**: (e.g., Bicep, Terraform)
 
-### Vendors
+### 5.3 Vendors
 - **Vendor Communication**: 
   - **Frequency**: (e.g., weekly, monthly)
   - **Contacts**: (e.g., vendor contact details, communication channels)
   - **Systems Availability**: (e.g., current access to vendor systems)
 
-## Data Considerations
-
-### Data Mapping and Transformation
+## 6. Data Considerations
+### 6.1 Data Mapping and Transformation
 - **Source Fields**: 
 - **Target Fields**: 
 - **Global Transformation Rules**: (e.g., data type conversion, field concatenation)
 - **Validation Rules**: (e.g., data format validation, range checks)
 
-### File Type Details
+### 6.2 File Type Details
 For each file type (e.g., invoice file), gather the following information:
 - **File Type Name**: 
 - **Purpose**: 
@@ -86,7 +85,7 @@ For each file type (e.g., invoice file), gather the following information:
 - **Mapping and Transformations**: (e.g., field mappings, transformation logic)
 - **Quality Requirements**: (e.g., data accuracy, completeness)
 
-## Target State of Integration
+## 7. Target State of Integration
 - **Target System Name**: 
 - **Target System Owner**: 
 - **Target Data Format**: (e.g., JSON, XML, CSV)
@@ -96,42 +95,42 @@ For each file type (e.g., invoice file), gather the following information:
 - **Target Data Flow**: (e.g., how data should be transferred)
 - **Expected Improvements**: (e.g., enhanced data quality, reduced latency)
 
-## Azure Integration Services Components
-### Logic Apps
+## 8. Azure Integration Services Components
+### 8.1 Logic Apps
 - **Workflows**: (e.g., types of workflows, triggers, actions)
 - **Connectors**: (e.g., connectors used, custom connectors)
 - **Error Handling**: (e.g., retry policies, exception handling)
 - **Security**: (e.g., authentication methods, data encryption)
 
-### API Management
+### 8.2 API Management
 - **APIs**: (e.g., number of APIs, endpoints)
 - **Policies**: (e.g., rate limiting, caching, transformation)
 - **Security**: (e.g., authentication, authorization)
 - **Monitoring**: (e.g., metrics, logging)
 
-### Service Bus
+### 8.3 Service Bus
 - **Messaging**: (e.g., queues, topics, subscriptions)
 - **Message Handling**: (e.g., dead-lettering, retry policies)
 - **Security**: (e.g., access controls, encryption)
 
-### Event Grid
+### 8.4 Event Grid
 - **Events**: (e.g., event sources, event handlers)
 - **Subscriptions**: (e.g., event subscriptions, filters)
 - **Security**: (e.g., authentication, authorization)
 
-### Data Factory
+### 8.5 Data Factory
 - **Pipelines**: (e.g., data pipelines, activities)
 - **Data Integration**: (e.g., ETL/ELT processes, data transformation)
 - **Monitoring**: (e.g., pipeline runs, error handling)
 - **Security**: (e.g., data encryption, access controls)
 
-## Metrics for Successful Integration
+## 9. Metrics for Successful Integration
 - **Success Criteria**: (e.g., data transfer completion, accuracy)
 - **Performance Metrics**: (e.g., processing time, throughput)
 - **Error Metrics**: (e.g., error rates, types of errors)
 - **User Satisfaction Metrics**: (e.g., stakeholder feedback)
 
-## Additional Notes
+## 10. Additional Notes
 - **Assumptions**: 
 - **Constraints**: 
 - **Risks and Mitigation**: 
