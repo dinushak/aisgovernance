@@ -22,7 +22,17 @@
 - **Current Data Flow**: (e.g., how data is currently transferred)
 - **Current Challenges**: (e.g., issues with data quality, latency)
 
-## 4. Integration Requirements
+## 4. Target State of Integration
+- **Target System Name**: 
+- **Target System Owner**: 
+- **Target Data Format**: (e.g., JSON, XML, CSV)
+- **Target Integration Protocol**: (e.g., SFTP, API)
+- **Target Connection Details**: (e.g., API endpoint, database connection string)
+- **Target Authentication Method**: (e.g., OAuth, API Key, Basic Auth)
+- **Target Data Flow**: (e.g., how data should be transferred)
+- **Expected Improvements**: (e.g., enhanced data quality, reduced latency)
+
+## 5. Integration Requirements
 - **Frequency**: (e.g., real-time, batch, scheduled)
 - **Volume**: (e.g., number of records per integration)
 - **Latency**: (e.g., acceptable delay in data transfer)
@@ -43,8 +53,8 @@
 - **Privacy**: (e.g., data protection measures)
 - **Costing**: (e.g., budget considerations)
 
-## 5. Existing and Supported Infrastructure
-### 5.1 Infrastructure
+## 6. Existing and Supported Infrastructure
+### 6.1 Infrastructure
 - **Existing State of Azure Tenant**: 
   - **Landing Zones**: (e.g., How subscriptions are organized)
   - **Resource Groups & Resources**: (e.g., How resources are organized)
@@ -59,41 +69,31 @@
 - **Existing DevOps Infrastructure**: (e.g., Corporate Azure DevOps)
 - **Availability of Environments**: (e.g., Dev, Test, UAT, Production)
 
-### 5.2 Policies & Procedures
+### 6.2 Policies & Procedures
 - **Naming Conventions for Resources**: (e.g., existing naming guideline)
 - **Service Request/Change Management Process**: (e.g., ITIL processes, ticketing systems)
 - **Preferred IaC Frameworks**: (e.g., Bicep, Terraform)
 
-### 5.3 Vendors
+### 6.3 Vendors
 - **Vendor Communication**: 
   - **Frequency**: (e.g., weekly, monthly)
   - **Contacts**: (e.g., vendor contact details, communication channels)
   - **Systems Availability**: (e.g., current access to vendor systems)
 
-## 6. Data Considerations
-### 6.1 Data Mapping and Transformation
+## 7. Data Considerations
+### 7.1 Data Mapping and Transformation
 - **Source Fields**: 
 - **Target Fields**: 
 - **Global Transformation Rules**: (e.g., data type conversion, field concatenation)
 - **Validation Rules**: (e.g., data format validation, range checks)
 
-### 6.2 File Type Details
+### 7.2 File Type Details
 For each file type (e.g., invoice file), gather the following information:
 - **File Type Name**: 
 - **Purpose**: 
 - **Validations**: (e.g., schema validation, business rules)
 - **Mapping and Transformations**: (e.g., field mappings, transformation logic)
 - **Quality Requirements**: (e.g., data accuracy, completeness)
-
-## 7. Target State of Integration
-- **Target System Name**: 
-- **Target System Owner**: 
-- **Target Data Format**: (e.g., JSON, XML, CSV)
-- **Target Integration Protocol**: (e.g., SFTP, API)
-- **Target Connection Details**: (e.g., API endpoint, database connection string)
-- **Target Authentication Method**: (e.g., OAuth, API Key, Basic Auth)
-- **Target Data Flow**: (e.g., how data should be transferred)
-- **Expected Improvements**: (e.g., enhanced data quality, reduced latency)
 
 ## 8. Azure Integration Services Components
 ### 8.1 Logic Apps
