@@ -10,53 +10,16 @@
 1. Introduction
 2. Detailed Design Objectives
 3. System Components
-    3.1 Logic Apps
-    3.2 Azure Functions
-    3.3 Service Bus
-    3.4 API Management
-    3.5 Event Grid
 4. Current State Design Diagrams
-    4.1 Architecture Diagram
-    4.2 Data Flow Diagram
-    4.3 Process Flow Diagram
 5. Target State Design Diagrams
-    5.1 Architecture Diagram
-    5.2 Data Flow Diagram
-    5.3 Process Flow Diagram
-    5.4 Integration Design
 6. Data Model
-    6.1 Entity-Relationship Diagrams
-    6.2 Data Flow Diagrams
-    6.3 Data Store Descriptions
 7. Security Design
-    7.1 Authentication
-    7.2 Authorization
-    7.3 Data Encryption
-    7.4 Compliance Requirements
 8. Configuration Management Plan
-    8.1 Version Control
-    8.2 Configuration Items
-    8.3 Change Management Processes
 9. Test Plan
-    9.1 Test Cases
-    9.2 Test Data
-    9.3 Testing Environments
-    9.4 Acceptance Criteria
 10. Scalability
-    10.1 Load Handling
-    10.2 Scaling Strategies
-    10.3 Performance Optimization
 11. Disaster Recovery
-    11.1 Backup Procedures
-    11.2 Failover Mechanisms
-    11.3 Recovery Time Objectives
 12. Governance and Compliance
-    12.1 Relevant Standards
-    12.2 Policies and Procedures
 13. Monitoring and Maintenance
-    13.1 Monitoring Tools
-    13.2 Maintenance Processes
-    13.3 Responsibilities
 14. Assumptions and Dependencies
 15. Conclusion
 
@@ -149,9 +112,6 @@ Describe the mechanisms for controlling access to AIS resources based on user ro
 
 ### 7.3 Data Encryption
 Outline the encryption techniques used to protect data at rest and in transit within the AIS system, including Azure Key Vault for managing encryption keys.
-
-### 7.4 Compliance Requirements
-List the compliance requirements that the AIS system must adhere to, such as GDPR, HIPAA, etc., and how Azure services help meet these requirements.
 
 ## 8. Configuration Management Plan
 Outline the configuration management plan, including version control, configuration items, and change management processes for AIS components.
