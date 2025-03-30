@@ -23,4 +23,4 @@ Develop detailed design documents using these templates. This will assist in def
 ### Risk and Issues Register
 Identify and document potential risks and issues early in the design phase using these tools. This will help in proactively managing and mitigating any challenges that may arise.
 
-Risk and Issues Register Template
+[Risk and Issues Register Template](Templates/Risks_Issues_Template.md)

@@ -5,7 +5,7 @@ Welcome to the Azure Integration Services (AIS) Project Governance Toolkit repos
 
 The repository is structured into the following subfolders, each representing a phase of the project lifecycle:
 
-- **Plan** 📅: Resources and templates for project planning, including project charters, timelines, and stakeholder analysis.
+- [**Plan** 📅](1.Plan/README.md): Resources and templates for project planning, including project charters, timelines, and stakeholder analysis.
 - **Discovery** 🔍: Tools and documents for the discovery phase, such as requirements gathering, business analysis, and feasibility studies.
 - **Design** 🛠️: Guidelines and templates for designing AIS solutions, including architecture diagrams, design specifications, and integration patterns.
 - **Implementation** 🚧: Best practices, scripts, and resources for implementing AIS solutions, including deployment guides, configuration settings, and code samples.
@@ -50,6 +50,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact 📧
 
-For any questions or support, please contact kumarasiri048@gmail.com.
+For any questions or support, please contact
+Dinusha Kumarasiri, MVP (Microsoft Azure)
+kumarasiri048@gmail.com.
 
 ---
