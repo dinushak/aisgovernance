@@ -5,12 +5,12 @@ Welcome to the Azure Integration Services (AIS) Project Governance Toolkit repos
 
 The repository is structured into the following subfolders, each representing a phase of the project lifecycle:
 
-- [**Plan** 📅](1.Plan/README.md): Resources and templates for project planning, including project charters, timelines, and stakeholder analysis.
-- **Discovery** 🔍: Tools and documents for the discovery phase, such as requirements gathering, business analysis, and feasibility studies.
-- **Design** 🛠️: Guidelines and templates for designing AIS solutions, including architecture diagrams, design specifications, and integration patterns.
-- **Implementation** 🚧: Best practices, scripts, and resources for implementing AIS solutions, including deployment guides, configuration settings, and code samples.
-- **Monitor** 📈: Monitoring and management tools for AIS projects, including performance metrics, logging, and alerting mechanisms.
-- **Closure** ✅: Documentation and templates for project closure, including final reports, lessons learned, and project handover documents.
+- [**Plan** 📅](src/1.Plan/README.md): Resources and templates for project planning, including project charters, timelines, and stakeholder analysis.
+- [**Discovery** 🔍](src/2.Discovery/README.md): Tools and documents for the discovery phase, such as requirements gathering, business analysis, and feasibility studies.
+- [**Design** 🛠️](src/3.Design/README.md): Guidelines and templates for designing AIS solutions, including architecture diagrams, design specifications, and integration patterns.
+- [**Implementation** 🚧](src/4.Implementation/README.md): Best practices, scripts, and resources for implementing AIS solutions, including deployment guides, configuration settings, and code samples.
+- [**Monitor** 📈](src/5.Monitor/README.md): Monitoring and management tools for AIS projects, including performance metrics, logging, and alerting mechanisms.
+- [**Closure** ✅](src/6.Closure/README.md): Documentation and templates for project closure, including final reports, lessons learned, and project handover documents.
 
 ## Getting Started 🏁
 
