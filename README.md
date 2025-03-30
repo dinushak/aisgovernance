@@ -5,6 +5,7 @@ Governing the implementation of an Integration Platform as a Service (iPaaS) sol
 
 - **Accelerated Timelines**: A compressed timeframe to discover, design, and implement the solution, requiring efficient planning and execution.
 - **Inherent Complexities**: Challenges unique to cloud implementations, including scalability, security, and compliance considerations.
+- **Component Interactions**: AIS implementation is complicated as it requires many components, such as Logic Apps, Service Bus, API Management, Event Grid, and Azure Functions, to interact seamlessly to deliver a cohesive solution.
 
  The repository is organized into several key phases of a project lifecycle, each containing relevant content to support your AIS assignments.
 

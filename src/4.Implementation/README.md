@@ -8,6 +8,7 @@ Welcome to the **Implementation** section of the Azure Integration Services (AIS
 - **Deployment**: Step-by-step instructions for deploying AIS components using Infrastructure as Code (IaC) with Bicep or Terraform, including DevOps repositories and pipelines.
 - **Development**: Resources for developing AIS components such as Azure Functions, Logic Apps, APIM policies, and ADF pipelines.
 - **Testing**: Resources for conducting thorough testing of AIS components.
+- **Project Cadence**: Schedule of regular meetings and communication channels to ensure project progress and address issues.
 
 ## Resources
 
@@ -47,3 +48,11 @@ Conduct thorough testing of AIS components to ensure they meet the required stan
 Identify and document potential risks and issues during the implementation phase using these tools. This will help in proactively managing and mitigating any challenges that may arise.
 
 [Risk and Issues Register Template](../3.Design/Templates/Risks_Issues_Template.md)
+
+### Project Cadence
+Regular meetings and communication channels to ensure project progress and address issues:
+
+- **Daily Standup**: A brief daily meeting with the project team, including the client, to discuss progress, blockers, and plans for the day. During this meeting in-progress tickets will be discussed.
+- **Weekly Progress Meeting**: A weekly meeting with stakeholders, including vendors and related parties, to review project progress, milestones, and deliverables.
+- **Weekly Issues & Risks Meeting**: A weekly meeting with the project team, including the client, to discuss any issues and risks, and develop mitigation strategies.
+- **Shared MS Teams Channel**: A dedicated Microsoft Teams channel to facilitate ongoing communication and collaboration with stakeholders.
