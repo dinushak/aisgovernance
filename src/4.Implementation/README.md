@@ -27,24 +27,6 @@ Use these guides to deploy AIS components such as Logic Apps, Azure Functions, S
 
 [AIS Bicep Quickstart](https://github.com/ronaldbosma/azure-integration-services-quickstart)
 
-#### Sample Repository Structure
-
-/pipelines
-  ├── azure-pipelines.yml
-  ├── parameters
-  │   ├── dev.parameters.json
-  │   ├── test.parameters.json
-  │   └── prod.parameters.json
-  ├── bicep
-  │   ├── main.bicep
-  │   └── modules
-  │       ├── logicapp.bicep
-  │       ├── function.bicep
-  │       ├── servicebus.bicep
-  │       ├── apim.bicep
-  │       └── eventgrid.bicep
-
-
 ### Development
 Develop AIS components such as Azure Functions, Logic Apps, APIM policies, and ADF pipelines using these resources. These guides and templates will help you create and manage your integration solutions effectively.
 
@@ -60,5 +42,8 @@ Develop AIS components such as Azure Functions, Logic Apps, APIM policies, and A
 Conduct thorough testing of AIS components to ensure they meet the required standards and function as expected. Use these resources to plan and execute your testing strategy.
 
 [Test Plan Template](Templates/Test_Plan_Template.md)
-Test Cases Template
-Test Data Template
+
+### Risk and Issues Register
+Identify and document potential risks and issues during the implementation phase using these tools. This will help in proactively managing and mitigating any challenges that may arise.
+
+[Risk and Issues Register Template](../3.Design/Templates/Risks_Issues_Template.md)

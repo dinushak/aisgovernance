@@ -18,20 +18,16 @@ Set up monitoring tools and services to keep track of the health and performance
 #### 1.1 Alerts and Notifications
 Configure alerts and notifications to proactively monitor your AIS components. Use these resources to set up alert rules and notification channels in Azure Monitor.
 
-Alerts and Notifications Guide
-
 #### 1.2 Performance Monitoring
 Monitor the performance of your AIS components using these tools and techniques. This will help you identify and address performance bottlenecks and ensure optimal operation.
-
-Performance Monitoring Guide
 
 #### 1.3 Logging and Diagnostics
 Set up logging and diagnostics to capture detailed information about the operation of your AIS components. Use these resources to configure Azure Log Analytics, Application Insights, and other diagnostic tools.
 
-Logging and Diagnostics Guide
-
 ### 2. Maintenance
 Follow best practices for maintaining your AIS system to ensure it remains operational and performs optimally. Use these guidelines to plan and execute regular maintenance activities.
+
+[Maintenance Plan Template](Templates/Maintenance_Plan_Template.md)
 
 ### 3. Governance
 Ensure compliance and adherence to policies and standards for your AIS components. Use these resources to implement governance practices and maintain control over your AIS environment.
