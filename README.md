@@ -1,6 +1,16 @@
 # Azure Integration Services (AIS) Project Governance Toolkit 🚀
 Welcome to the Azure Integration Services (AIS) Project Governance Toolkit repository! This toolkit is designed to provide essential resources and guidance for successfully managing and governing AIS projects.
 
+Azure Integration Services is a robust suite of tools designed to facilitate seamless integration of applications, data, and processes across both on-premises and cloud environments. It includes key components such as;
+
+- **Logic Apps**: Enables the creation of automated workflows
+- **API Management**: Allows for the secure publication and analysis of APIs
+- **Service Bus**: Provides reliable messaging services for secure communication between applications
+- **Event Grid**: Supports event-based architectures by routing events from various sources to different destinations.
+- **Azure Data Factory**: Offers a cloud-based ETL and data integration service that allows you to create data-driven workflows for orchestrating data movement and transforming data at scale
+- **Azure Functions**: enables event-driven serverless code to handle complex processing tasks within your workflows. 
+
+
 Following is a sample API based integration with AIS components
 
 ![alt text](src/Images/image.png)
