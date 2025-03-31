@@ -1,6 +1,10 @@
 # Azure Integration Services (AIS) Project Governance Toolkit 🚀
 Welcome to the Azure Integration Services (AIS) Project Governance Toolkit repository! This toolkit is designed to provide essential resources and guidance for successfully managing and governing AIS projects.
 
+Following is a sample API based integration with AIS components
+
+![alt text](src/Images/image.png)
+
 Governing the implementation of an Integration Platform as a Service (iPaaS) solution, such as Azure Integration Services, is distinct from other integration assignments. The nature of iPaaS projects often involves:
 
 - **Accelerated Timelines**: A compressed timeframe to discover, design, and implement the solution, requiring efficient planning and execution.
