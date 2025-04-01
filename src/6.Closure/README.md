@@ -37,6 +37,7 @@ Ensure all project documentation is complete and accessible. This includes final
   - [ ] [Risk and Issues Register](../3.Design/Templates/Risks_Issues_Template.md)
 
 - **Implementation Stage**:
+  - [ ] [Implementation Activity Log Template](../4.Implementation/Templates/Implementation_Activity_Log.md)
   - [ ] [Test Plan](../4.Implementation/Templates/Test_Plan_Template.md)
 
 - **Monitor Stage**:

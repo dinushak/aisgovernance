@@ -44,6 +44,7 @@ The repository is structured into the following subfolders, each representing a 
   - [ ] [Risk and Issues Register](src/3.Design/Templates/Risks_Issues_Template.md)
 
 - [**Implementation** 🚧](src/4.Implementation/README.md): Best practices, scripts, and resources for implementing AIS solutions, including deployment guides, configuration settings, and code samples.
+  - [ ] [Implementation Activity Log Template](src/4.Implementation/Templates/Implementation_Activity_Log.md)
   - [ ] [Test Plan](src/4.Implementation/Templates/Test_Plan_Template.md)
 
 - [**Monitor** 📈](src/5.Monitor/README.md): Monitoring and management tools for AIS projects, including performance metrics, logging, and alerting mechanisms.
@@ -91,4 +92,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact 📧
 
-✍️ Primary Author: [Dinusha Kumarasiri](kumarasiri048@gmail.com), MVP (Microsoft Azure)
+
+✍️ Primary Author: [Dinusha Kumarasiri](mailto:kumarasiri048@gmail.com), MVP (Microsoft Azure)
