@@ -7,6 +7,7 @@ Welcome to the **Implementation** section of the Azure Integration Services (AIS
 - **Landing Zone Implementation**: Guidelines and resources for setting up an AIS landing zone.
 - **Deployment**: Step-by-step instructions for deploying AIS components using Infrastructure as Code (IaC) with Bicep or Terraform, including DevOps repositories and pipelines.
 - **Development**: Resources for developing AIS components such as Azure Functions, Logic Apps, APIM policies, and ADF pipelines.
+- **Implementation Activity Log**: Document to capture detailed information about each implementation activity.
 - **Testing**: Resources for conducting thorough testing of AIS components.
 - **Project Cadence**: Schedule of regular meetings and communication channels to ensure project progress and address issues.
 
@@ -38,6 +39,12 @@ Develop AIS components such as Azure Functions, Logic Apps, APIM policies, and A
 [APIM Policy Reference](https://docs.azure.cn/en-us/api-management/api-management-policies)
 
 [ADF Pipeline Reference](https://learn.microsoft.com/en-us/azure/data-factory/concepts-pipelines-activities?tabs=data-factory)
+
+### Implementation Activity Log
+This document contains detailed information about the implementation activities for the Azure Integration Services (AIS) project. Fill in the relevant sections as you complete each task.
+
+[Implementation Activity Log Template](Templates/Implementation_Activity_Log.md)
+
 
 ### Testing
 Conduct thorough testing of AIS components to ensure they meet the required standards and function as expected. Use these resources to plan and execute your testing strategy.
