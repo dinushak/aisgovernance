@@ -13,7 +13,7 @@ Azure Integration Services is a robust suite of tools designed to facilitate sea
 
 Following is a sample API based integration with AIS components
 
-![alt text](src/Images/image.png)
+![alt text](src/Images/image.png) 
 
 Governing the implementation of an Integration Platform as a Service (iPaaS) solution, such as Azure Integration Services, is distinct from other integration assignments. The nature of iPaaS projects often involves:
 
