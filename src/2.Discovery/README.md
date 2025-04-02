@@ -5,7 +5,7 @@ Welcome to the **Discovery** section of the Azure Integration Services (AIS) Pro
 ## Contents
 
 - **Discovery Workshops**: Tools, templates, and guidelines for conducting workshops and gathering project requirements from stakeholders.
-- **Elaboration**: Techniques and documents for analyzing business needs and defining project scope. The elaboration will be presented to stakeholders for verification.
+- **Elaboration**: Techniques and documents for analyzing requirements. The elaboration will be presented to stakeholders for verification.
 
 ## Resources
 
@@ -15,6 +15,6 @@ Use these tools, templates, and guidelines to conduct workshops with key stakeho
 [Discovery Workshop Template](Templates/Discovery_Workshop_Template.md)
 
 ### Elaboration
-Analyze the business needs and define the project scope with these techniques and documents. This will help in understanding the current state and identifying the desired future state.
+Requirements captured during Discovery Workshops are refined, validated, and properly structured in this section. The goal is to ensure clarity, confirm stakeholder alignment, and establish integration touchpoints with external vendors. This document serves as a communication tool for clients and third-party system owners, ensuring seamless collaboration before moving into the design and implementation stages.
 
-[Flowchart Template](Templates/Flowchart_Template.md)
+[Elaboration Template](Templates/Elaboration_Template.md)
