@@ -29,7 +29,7 @@ Ensure all project documentation is complete and accessible. This includes final
 
 - **Discovery Stage**:
   - [ ] [Discovery Workshop Data Collection Sheet](../2.Discovery/Templates/Discovery_Workshop_Template.md)
-  - [ ] [Discovery Elaboration](../2.Discovery/Templates/Flowchart_Template.md)
+  - [ ] [Discovery Elaboration](../2.Discovery/Templates/Elaboration_Template.md)
 
 - **Design Stage**:
   - [ ] [High-Level Design](../3.Design/Templates/HighLevel_Design_Template.md)
